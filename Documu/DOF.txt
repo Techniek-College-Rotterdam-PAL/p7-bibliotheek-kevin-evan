@@ -1,0 +1,18 @@
+DoF (definition of fun)
+
+(Aanwezigheid)
+- Als je afwezig bent, werk je thuis verder
+- Als je afwezig bent, aangeven aan teamleden
+
+(Communicatie)
+- Communicatie gaat via teams
+- Duidelijk aangeven waar je mee bezig bent
+- Duidelijk aangeven wanneer je iets toegevoegd aan github
+- Duidelijk aangeven wanneer je aan trello gewerkt hebt.
+
+(Opleveren van werk)
+- Aan het eind van de sprint je werk af hebben
+- Duidelijk aangeven als je jouw werk niet af hebt (op tijd)
+
+(Consequenties)
+- Als je niet aan de DoF houdt dan moet je gras gaan aanraken.
