@@ -2,29 +2,17 @@ We zijn pas klaar met het project eenmaal wanneer we de algemenen, technische en
 website eisen / must haves af hebben.
 
 ALGEMENE EISEN
-● De website heeft een eigen gemaakt thema
-● Ieder lid van het groepje heeft een bijdrage gedaan aan zowel de HTML, CSS,
-JavaScript en PHP en kan dit verantwoorden.
-● Alle tekst inhoud is aan te passen via het dashboard van WordPress. Een
-gebruiker moet dus zonder programmeerkennis de website kunnen beheren.
+● De website heeft een inlog en boeken systeem
+● Ieder lid van het groepje heeft een bijdrage gedaan aan zowel de HTML, CSS
+en PHP en kan dit verantwoorden.
 
 TECHNISCHE EISEN
 ● Je maakt gebruik van HTML en CSS
-● Je maakt gebruik van JavaScript
 ● Je maak gebruik van PHP
 
 WEBSITE EISEN / MUST HAVES
-● De website is responsive voor desktop en minimaal 1 mobiel apparaat
 ● Je website heeft minimaal de volgende elementen:
 1. Homepage
-2. Over ons pagina
-3. 1 pagina per lid van het e -sport team (5 man)
-4. 1 pagina met het overzicht van aankomende matches
-5. Contact pagina met contactformulier (Deze hoeft niet echt een mail te
-versturen)
-● Afbeeldingen zijn geoptimaliseerd (Als een afbeelding meer dan 1MB is kan
-deze vaak verkleind worden, online zijn hier gratis tools voor google naar
-minify images).
-● De website is geoptimaliseerd. Dit kan je aantonen door minimaal 80 punten
-te scoren voor performance,accessibility, best practices en SEO in Google
-lighthouse.
+2. boeken invoeg
+3. inlogpage
+4. boeken archief
